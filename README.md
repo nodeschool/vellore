@@ -10,6 +10,10 @@ Nodeschool Vellore is just getting started so please get in contact if you would
 
 We utilise [GitHub Issues](https://github.com/nodeschool/vellore/issues) like a message board and keep almost all of our communication in the open. Feel free to create new issues to make suggestions on how NodeSchool Vellore can improve and grow.
 
+##Resources
+
+We prepared the resources for the workshop from the tool <a href="https://github.com/workshopper/learnyounode">learnyounode</a>. <br/> The link to our material is: https://github.com/GDGVIT/NodeJSWorkshop 
+
 -----
 ## We are having out first event!
 Come join us at VIT University, Vellore for the first workshop on NodeJS. 
