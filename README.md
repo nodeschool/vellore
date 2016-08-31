@@ -15,8 +15,7 @@ We utilise [GitHub Issues](https://github.com/nodeschool/vellore/issues) like a 
 We prepared the resources for the workshop from the tool <a href="https://github.com/workshopper/learnyounode">learnyounode</a>. <br/> The link to our material is: https://github.com/GDGVIT/NodeJSWorkshop 
 
 -----
-## We are having out first event!
-Come join us at VIT University, Vellore for the first workshop on NodeJS. 
-The event is being organized at SJT 319 from 11:00 - 13:00 on 31/8/16.
+## Thank you for the amazing turnout!
+It was great to see all the enthusiastic minds so excited to learn NodeJS. We will be continuing it further. Look at this space for further announcements. 
 
-We will be guiding you through learn you node and help you in the first step of becoming of NodeNinja. 
+P.S: Visit the event's issue, and check out the pictures from the event.
