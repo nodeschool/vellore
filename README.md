@@ -18,4 +18,3 @@ We prepared the resources for the workshop from the tool <a href="https://github
 ## Thank you for the amazing turnout!
 It was great to see all the enthusiastic minds so excited to learn NodeJS. We will be continuing it further. Look at this space for further announcements. 
 
-P.S: Visit the event's issue, and check out the pictures from the event.
