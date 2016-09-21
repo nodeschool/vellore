@@ -15,6 +15,5 @@ We utilise [GitHub Issues](https://github.com/nodeschool/vellore/issues) like a 
 We prepared the resources for the workshop from the tool <a href="https://github.com/workshopper/learnyounode">learnyounode</a>. <br/> The link to our material is: https://github.com/GDGVIT/NodeJSWorkshop 
 
 -----
-## Thank you for the amazing turnout!
-It was great to see all the enthusiastic minds so excited to learn NodeJS. We will be continuing it further. Look at this space for further announcements. 
-
+## Functional JS on 28/9/16
+Come learn the quick techniques to boost your JS skills
